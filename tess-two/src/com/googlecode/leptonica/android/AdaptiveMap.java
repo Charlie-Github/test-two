@@ -28,6 +28,8 @@ public class AdaptiveMap {
 // a new line
     // Background normalization constants
 // second line
+    
+// third line
     /** Image reduction value; possible values are 1, 2, 4, 8 */
     private final static int NORM_REDUCTION = 16;
 
