@@ -30,6 +30,10 @@ public class AdaptiveMap {
 // second line
     
 // third line
+    
+// Fourth
+    
+    
     /** Image reduction value; possible values are 1, 2, 4, 8 */
     private final static int NORM_REDUCTION = 16;
 
